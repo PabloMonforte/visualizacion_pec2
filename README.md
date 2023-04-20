@@ -1,4 +1,5 @@
-# visualizacion_pec2
+# Visualización de datos PEC2
+
 ## Cartograms
 
 ![cartogram](https://user-images.githubusercontent.com/94468955/233323917-2749fc21-bce8-4f7e-ae3f-515d4f03e3ae.png)
